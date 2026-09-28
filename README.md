@@ -7,7 +7,7 @@ It contains **no source code**. Builds are published here as GitHub Releases onl
 
 ## Downloading
 
-Open **[Releases](../../releases)** and download the Setup for the newest build:
+Open the repository's **Releases** section and choose the Setup for the newest build:
 
 - `OzfaODM-Setup-<version>-x64.exe` — the installer (Windows 10/11 x64, per-user, no administrator rights needed)
 - `SHA256SUMS.txt` — SHA-256 checksums of every file in the release
